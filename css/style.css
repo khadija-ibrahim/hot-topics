@@ -235,6 +235,10 @@ figure {
     width:100%; 
 }
 
+figcaption p {
+    text-align: center;
+}
+
 
 /*tablet*/
 @media all and (min-width: 35rem) {
